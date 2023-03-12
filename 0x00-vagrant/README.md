@@ -1,0 +1,1 @@
+## print the kernel name, network node hostname, kernel release, kernel version, machine hardware name, and operating system name.
